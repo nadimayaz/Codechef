@@ -5,5 +5,4 @@ README
 ======
 
 
-**Few Solutions :) **
----------------------
+**Few Solutions of Codechef Long Challenge **
