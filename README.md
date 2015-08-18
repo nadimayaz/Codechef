@@ -5,4 +5,4 @@ README
 ======
 
 
-**Few Solutions of Codechef Long Challenge **
+**Few Solutions of Codechef Long Challenge**
